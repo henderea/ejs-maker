@@ -6,9 +6,9 @@ abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
 
-ace-builds@^1.2.9:
-  version "1.2.9"
-  resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.2.9.tgz#2947fb47a881005e914e3dd8d095b6e84e5e5216"
+ace-builds@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.3.0.tgz#9245a414d0b2ee039ee01f5b97a6d9f10cf436fa"
 
 acorn-dynamic-import@^2.0.0:
   version "2.0.2"
@@ -914,8 +914,8 @@ caniuse-api@^1.5.2:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000799"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000799.tgz#0904953de93f3f492647e58c1a1bda7a73a0cb0b"
+  version "1.0.30000800"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000800.tgz#a86e6bc23bd9a707d5df42f33e64d0495cfda218"
 
 caniuse-lite@^1.0.30000792:
   version "1.0.30000792"
@@ -3694,8 +3694,8 @@ randomfill@^1.0.3:
     safe-buffer "^5.1.0"
 
 rc@^1.1.7:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/rc/-/rc-1.2.4.tgz#a0f606caae2a3b862bbd0ef85482c0125b315fa3"
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/rc/-/rc-1.2.5.tgz#275cd687f6e3b36cc756baa26dfee80a790301fd"
   dependencies:
     deep-extend "~0.4.0"
     ini "~1.3.0"
