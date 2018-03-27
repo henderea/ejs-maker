@@ -10,12 +10,8 @@
   "author": "henderea",
   "license": "MIT",
   "repository": "https://github.com/henderea/ejs-maker",
-  "scripts": {
-    "build": "static-site-builder build",
-    "watch": "static-site-builder watch"
-  },
   "dependencies": {
-    "ace-builds": "^1.3.2",
+    "ace-builds": "^1.3.3",
     "ejs": "^2.5.8",
     "jquery": "^3.3.1",
     "jquery-ui": "^1.12.1",
