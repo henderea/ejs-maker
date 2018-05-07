@@ -12,12 +12,12 @@
   "repository": "https://github.com/henderea/ejs-maker",
   "dependencies": {
     "ace-builds": "^1.3.3",
-    "ejs": "^2.5.9",
+    "ejs": "^2.6.1",
     "jquery": "^3.3.1",
     "jquery-ui": "^1.12.1",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
-    "@henderea/static-site-builder": "^1.0.22"
+    "@henderea/static-site-builder": "^1.0.23"
   }
 }
