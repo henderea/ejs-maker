@@ -18,6 +18,6 @@
     "lodash": "^4.17.10"
   },
   "devDependencies": {
-    "@henderea/static-site-builder": "^1.0.33"
+    "@henderea/static-site-builder": "^1.0.34"
   }
 }
