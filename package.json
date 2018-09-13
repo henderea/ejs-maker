@@ -15,10 +15,10 @@
     "ejs": "^2.6.1",
     "jquery": "^3.3.1",
     "jquery-ui": "^1.12.1",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "@henderea/static-site-builder": "^1.0.50",
+    "@henderea/static-site-builder": "^1.0.51",
     "eslint": "^5.5.0"
   }
 }
