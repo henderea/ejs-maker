@@ -18,7 +18,7 @@
     "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "@henderea/static-site-builder": "^1.2.1",
+    "@henderea/static-site-builder": "^1.2.2",
     "eslint": "^5.11.1"
   }
 }
