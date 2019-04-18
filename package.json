@@ -13,12 +13,12 @@
   "dependencies": {
     "ace-builds": "^1.4.3",
     "ejs": "^2.6.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "jquery-ui": "^1.12.1",
     "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "@henderea/static-site-builder": "^1.2.9",
-    "eslint": "^5.15.1"
+    "@henderea/static-site-builder": "^1.2.17",
+    "eslint": "^5.16.0"
   }
 }
